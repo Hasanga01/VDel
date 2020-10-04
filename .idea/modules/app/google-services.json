@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "663460822094",
+    "firebase_url": "https://vdel-6d5ff.firebaseio.com",
+    "project_id": "vdel-6d5ff",
+    "storage_bucket": "vdel-6d5ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:663460822094:android:d223e78e6789f4d1de171f",
+        "android_client_info": {
+          "package_name": "com.example.vdel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "663460822094-pshonheojmdqhvao40tsj54s0ha63ggb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vdel",
+            "certificate_hash": "f2cd21738961564fedca77d8ec369988cb03e516"
+          }
+        },
+        {
+          "client_id": "663460822094-l33vhudv9sje6eu836a8t06fr7tfe91g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6h7jLaNykOuux8Ky4t6f9iJx2y7Mg21s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "663460822094-l33vhudv9sje6eu836a8t06fr7tfe91g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
